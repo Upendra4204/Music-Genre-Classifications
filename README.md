@@ -1,8 +1,8 @@
 Table of Contents
-# Over View    
-# Installation  
-# USAGE 
-# Contact  
+## Over View    
+## Installation  
+## USAGE 
+## Contact  
 
 Overview 
 
@@ -17,10 +17,12 @@ npm install
 npm start 
 
 Usage 
+
 This project was the base idea how to start with audio classification how the preocessing steps will be applied what are the things will come under this project 
 you clone the repo or download the code we included with model files as well 
 
 Contact 
+
 Upendra Gummilla,ugummilla@gmail.com 
 for any queries 
 Thanks Namasthey 
