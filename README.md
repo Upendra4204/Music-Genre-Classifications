@@ -1,7 +1,7 @@
 ##  Table of Contents
 #### Over View    
 #### Installation  
-#### USAGE 
+#### Usage 
 #### Contact  
 
 Overview 
